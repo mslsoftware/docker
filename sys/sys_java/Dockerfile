@@ -1,6 +1,6 @@
 # open java 8;
 
-FROM index.alauda.cn/openadmin/sys_centos
+FROM mslsoftware/sys_centos
 
 
 RUN yum install -y wget unzip
